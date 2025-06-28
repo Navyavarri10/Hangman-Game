@@ -91,8 +91,9 @@ Congratulations! You guessed the word: mango
 
 ---
 
-## 👨‍💻 Author
+## 👩‍💻 Developed By
 
 **Varri Navya**
+Feel free to connect on [GitHub](https://github.com/Navyavarri10) 😊
 
 ---
